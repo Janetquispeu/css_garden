@@ -1,0 +1,134 @@
+body{
+	font-size: 12px;
+	background-color: rgba(65,76,66,0.8);
+}
+h1{
+	font-family: Gill Sans MT;
+	font-size: 120px;
+	background-color: #E6E6E6;
+	text-align: center;
+	margin-left: 150px;
+}
+h2{
+	text-align: right;
+	font-family:  Gill Sans MT;
+	font-size: 14px;
+}
+/
+header h1{
+	width: 1000px;
+    height: 200px;
+    margin-bottom: 200px
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: red;
+
+    
+}
+header h2{
+	font-size: 50px;
+	margin-bottom: 100px;
+	background-color: orange;
+}
+body div{
+	width: 80%;
+    float: left;
+}
+
+section{
+	width: 80%;
+}
+section div{
+	width: 80%;
+    float: left;
+}
+aside{
+	width: 20%;
+	float: right;
+}
+section div div{
+	width: 100%
+}
+#zen-summary{
+	font-family:  Gill Sans MT;
+	font-size: 14px;
+	text-align: right; 
+	margin-top: 150px;
+	margin-right: 210px;
+	margin-bottom: 100px;
+	display: block;
+}
+
+#zen-preamble{
+	display: inline-block;
+	font-family:  Gill Sans MT;
+	font-size: 14px;
+	text-align: justify; 
+	margin-left: 40px;
+	margin-right: 500px;
+	padding-left: 20px;
+	padding-right: 80px;
+	padding-top: 0px;
+	background-color: white;
+}
+#zen-explanation{
+	display: inline-block;
+	font-family:  Gill Sans MT;
+	font-size: 14px;
+	text-align: justify; 
+	margin-left: 40px;
+	margin-right: 500px;
+	padding-left: 20px;
+	padding-right: 80px;
+	padding-top: 0px;
+	background-color: white;
+}
+#zen-participation{
+	display: inline-block;
+	font-family:  Gill Sans MT;
+	font-size: 14px;
+	text-align: justify; 
+	margin-left: 40px;
+	margin-right: 500px;
+	padding-left: 20px;
+	padding-right: 80px;
+	padding-top: 0px;
+	background-color: white;
+}
+#zen-benefits{
+	display: inline-block;
+	font-family:  Gill Sans MT;
+	font-size: 14px;
+	text-align: justify; 
+	margin-left: 40px;
+	margin-right: 500px;
+	padding-left: 20px;
+	padding-right: 80px;
+	padding-top: 0px;
+	background-color: white;
+}
+#zen-requirements{
+	display: inline-block;
+	font-family:  Gill Sans MT;
+	font-size: 14px;
+	text-align: justify; 
+	margin-left: 40px;
+	margin-right: 500px;
+	padding-left: 20px;
+	padding-right: 80px;
+	padding-top: 0px;
+	background-color: white;
+}
+#design-selection{
+	display: inline-block;
+	font-family:  Gill Sans MT;
+	font-size: 14px;
+	text-align: justify; 
+	margin-left: 800px;
+	margin-right: 20px;
+	margin-bottom: 500px;
+	padding-left: 10px;
+	padding-right: 80px;
+	padding-top: 0px;
+	background-color: white;
+}
